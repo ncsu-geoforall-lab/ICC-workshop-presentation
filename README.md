@@ -97,12 +97,13 @@ July, 2017
 *   Addons for importing and publishing Geospatial data
 
 </div>
-|![](img/blendergis.JPG) BlenderGIS addon|  ![](img/sketchfab.JPG) Sketchfab addon|
+</section>
+
+|![](img/blendergis.JPG)BlenderGIS addon|![](img/sketchfab.JPG)Sketchfab addon|
 |:----:|:----:|
 
-</div>
 
-</section>
+
 
 <section>
 

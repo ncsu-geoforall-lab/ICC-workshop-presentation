@@ -97,8 +97,8 @@ July, 2017
 *   Addons for importing and publishing Geospatial data
 
 </div>
-![](img/blendergis.JPG)  ![](img/sketchfab.JPG)
-
+|![](img/blendergis.JPG) BlenderGIS addon|  ![](img/sketchfab.JPG) Sketchfab addon|
+|:----:|:----:|
 
 </div>
 
@@ -111,13 +111,11 @@ July, 2017
 *   Real-time realistic rendering and Immersion at the viewport
 
 </div>
-Virtual-reality addon with Oculus Dk2  
-![](img/ive.jpg) 
-Real-time Cycles rendering
-![](img/realism.jpg)
 
-              
-</div>
+|![](img/ive.jpg)Virtual-reality addon with Oculus Dk2| ![](img/realism.jpg)Real-time rendering with Cycles|
+|:----:|:----:|
+
+
 
 </section>
 

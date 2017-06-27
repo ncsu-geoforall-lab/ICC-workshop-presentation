@@ -97,10 +97,7 @@ July, 2017
 *   Addons for importing and publishing Geospatial data
 
 </div>
-Blender gis addon
-![](img/blendergis.JPG)  
-Sketchfab addon
-![](img/sketchfab.JPG)
+![](img/blendergis.JPG)  ![](img/sketchfab.JPG)
 
 
 </div>
